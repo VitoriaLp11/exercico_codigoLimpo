@@ -1,0 +1,24 @@
+- Log:
+
+- Repositório no GitHub:
+
+- Dificuldades enfrentadas:
+tive dúvidas iniciais sobre como nomear corretamente as variáveis para torná-las mais descritivas;
+foi a primeira vez que usei o GitHub num geral;
+senti dificuldade em entender a logica da platafroma e como ela funciona;
+foi a primeira vez que usei o GitHub para criar um pull request;  
+precisei entender como simular uma revisão de código e comentários no PR;
+
+- Resumo da refatoração
+1. nome original do algoritmo: "primo_ou_nao"
+alterado para: "verificar_numero_primo", mais descritivo;
+
+2. variáveis genéricas como n, i, c foram substituídas por nomes significativos:
+numero, divisor, quantidade_divisores, facilitando o entendimento;
+
+3. texto de entrada e saída melhorado, com mensagens mais claras e padronizadas;
+
+4. indentação ajustada para melhor leitura e manutenção do código;
+
+5. nenhum código morto ou comentário redundante foi mantido;
+
